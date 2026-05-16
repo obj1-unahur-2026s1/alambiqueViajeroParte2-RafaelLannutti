@@ -1,4 +1,5 @@
 object luke{
+    
     var cantidadViajes = 0
     var recuerdo = null
     var vehiculo = alambiqueVeloz
